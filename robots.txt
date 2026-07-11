@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mimer2024yemen.github.io/lawsbook-site-archive/sitemap.xml
