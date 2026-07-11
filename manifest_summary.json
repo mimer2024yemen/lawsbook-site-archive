@@ -1,0 +1,32 @@
+{
+  "hosts": {
+    "lawsbook.lovable.app": {
+      "files": 97,
+      "bytes": 2078664
+    },
+    "i.pravatar.cc": {
+      "files": 26,
+      "bytes": 327971
+    },
+    "images.unsplash.com": {
+      "files": 30,
+      "bytes": 1785491
+    },
+    "fonts.googleapis.com": {
+      "files": 2,
+      "bytes": 1403
+    },
+    "cdn.gpteng.co": {
+      "files": 1,
+      "bytes": 133760
+    },
+    "fonts.gstatic.com": {
+      "files": 7,
+      "bytes": 1031248
+    }
+  },
+  "totals": {
+    "files": 163,
+    "bytes": 5358537
+  }
+}

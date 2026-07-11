@@ -1,0 +1,1928 @@
+--2026-07-11 13:58:21--  https://lawsbook.lovable.app/
+Resolving lawsbook.lovable.app (lawsbook.lovable.app)... 185.41.148.2, 185.41.148.1, 2a07:8240::1, ...
+Connecting to lawsbook.lovable.app (lawsbook.lovable.app)|185.41.148.2|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'mirror/lawsbook.lovable.app/index.html'
+
+     0K .......... .......... .......... .......... .......... 38.4M
+    50K .......... .......... .......... ........              6.17M=0.007s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:22 (11.7 MB/s) - 'mirror/lawsbook.lovable.app/index.html' saved [90826]
+
+Loading robots.txt; please ignore errors.
+--2026-07-11 13:58:22--  https://i.pravatar.cc/robots.txt
+Resolving i.pravatar.cc (i.pravatar.cc)... 172.67.154.150, 104.21.6.24, 2606:4700:3035::6815:618, ...
+Connecting to i.pravatar.cc (i.pravatar.cc)|172.67.154.150|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1248 (1.2K) [text/plain]
+Saving to: 'mirror/i.pravatar.cc/robots.txt'
+
+     0K .                                                     100% 28.4M=0s
+
+2026-07-11 13:58:22 (28.4 MB/s) - 'mirror/i.pravatar.cc/robots.txt' saved [1248/1248]
+
+Loading robots.txt; please ignore errors.
+--2026-07-11 13:58:22--  https://images.unsplash.com/robots.txt
+Resolving images.unsplash.com (images.unsplash.com)... 151.101.194.208, 151.101.66.208, 151.101.2.208, ...
+Connecting to images.unsplash.com (images.unsplash.com)|151.101.194.208|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 35 [text/plain, charset=utf-8]
+Saving to: 'mirror/images.unsplash.com/robots.txt'
+
+     0K                                                       100% 1.29M=0s
+
+2026-07-11 13:58:22 (1.29 MB/s) - 'mirror/images.unsplash.com/robots.txt' saved [35/35]
+
+Loading robots.txt; please ignore errors.
+--2026-07-11 13:58:22--  https://fonts.googleapis.com/robots.txt
+Resolving fonts.googleapis.com (fonts.googleapis.com)... 74.125.20.95, 2607:f8b0:400e:c09::5f
+Connecting to fonts.googleapis.com (fonts.googleapis.com)|74.125.20.95|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/plain]
+Saving to: 'mirror/fonts.googleapis.com/robots.txt'
+
+     0K                                                        1.51M=0s
+
+2026-07-11 13:58:22 (1.51 MB/s) - 'mirror/fonts.googleapis.com/robots.txt' saved [25]
+
+Loading robots.txt; please ignore errors.
+--2026-07-11 13:58:22--  https://lawsbook.lovable.app/robots.txt
+Connecting to lawsbook.lovable.app (lawsbook.lovable.app)|185.41.148.2|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2026-07-11 13:58:23 ERROR 404: Not Found.
+
+Loading robots.txt; please ignore errors.
+--2026-07-11 13:58:23--  https://fonts.gstatic.com/robots.txt
+Resolving fonts.gstatic.com (fonts.gstatic.com)... 142.250.99.94, 2607:f8b0:400e:c0c::5e
+Connecting to fonts.gstatic.com (fonts.gstatic.com)|142.250.99.94|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2026-07-11 13:58:23 ERROR 404: Not Found.
+
+Loading robots.txt; please ignore errors.
+--2026-07-11 13:58:23--  https://cdn.gpteng.co/robots.txt
+Resolving cdn.gpteng.co (cdn.gpteng.co)... 104.18.29.167, 104.18.28.167, 2606:4700::6812:1da7, ...
+Connecting to cdn.gpteng.co (cdn.gpteng.co)|104.18.29.167|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2026-07-11 13:58:23 ERROR 404: Not Found.
+
+--2026-07-11 13:58:23--  https://i.pravatar.cc/300?img=12
+Connecting to i.pravatar.cc (i.pravatar.cc)|172.67.154.150|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: 'mirror/i.pravatar.cc/300?img=12'
+
+     0K .......... ...                                         51.8M=0s
+
+2026-07-11 13:58:23 (51.8 MB/s) - 'mirror/i.pravatar.cc/300?img=12' saved [13809]
+
+--2026-07-11 13:58:23--  https://i.pravatar.cc/300?img=47
+Reusing existing connection to i.pravatar.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: 'mirror/i.pravatar.cc/300?img=47'
+
+     0K .......... ......                                      72.4M=0s
+
+2026-07-11 13:58:23 (72.4 MB/s) - 'mirror/i.pravatar.cc/300?img=47' saved [16833]
+
+--2026-07-11 13:58:23--  https://i.pravatar.cc/300?img=49
+Reusing existing connection to i.pravatar.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: 'mirror/i.pravatar.cc/300?img=49'
+
+     0K .......... ....                                        47.6M=0s
+
+2026-07-11 13:58:23 (47.6 MB/s) - 'mirror/i.pravatar.cc/300?img=49' saved [14796]
+
+--2026-07-11 13:58:23--  https://i.pravatar.cc/300?img=31
+Reusing existing connection to i.pravatar.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: 'mirror/i.pravatar.cc/300?img=31'
+
+     0K .......... .......                                     30.8M=0.001s
+
+2026-07-11 13:58:23 (30.8 MB/s) - 'mirror/i.pravatar.cc/300?img=31' saved [17657]
+
+--2026-07-11 13:58:23--  https://i.pravatar.cc/300?img=15
+Reusing existing connection to i.pravatar.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: 'mirror/i.pravatar.cc/300?img=15'
+
+     0K .......... ...                                         75.7M=0s
+
+2026-07-11 13:58:23 (75.7 MB/s) - 'mirror/i.pravatar.cc/300?img=15' saved [13539]
+
+--2026-07-11 13:58:23--  https://i.pravatar.cc/300?img=22
+Reusing existing connection to i.pravatar.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: 'mirror/i.pravatar.cc/300?img=22'
+
+     0K .......... .......... ..                                232M=0s
+
+2026-07-11 13:58:23 (232 MB/s) - 'mirror/i.pravatar.cc/300?img=22' saved [22914]
+
+--2026-07-11 13:58:23--  https://i.pravatar.cc/300?img=28
+Reusing existing connection to i.pravatar.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: 'mirror/i.pravatar.cc/300?img=28'
+
+     0K .......... ...                                         39.2M=0s
+
+2026-07-11 13:58:23 (39.2 MB/s) - 'mirror/i.pravatar.cc/300?img=28' saved [13461]
+
+--2026-07-11 13:58:23--  https://i.pravatar.cc/300?img=18
+Reusing existing connection to i.pravatar.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: 'mirror/i.pravatar.cc/300?img=18'
+
+     0K .......... ......                                      49.5M=0s
+
+2026-07-11 13:58:23 (49.5 MB/s) - 'mirror/i.pravatar.cc/300?img=18' saved [16976]
+
+--2026-07-11 13:58:23--  https://i.pravatar.cc/300?img=54
+Reusing existing connection to i.pravatar.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: 'mirror/i.pravatar.cc/300?img=54'
+
+     0K .......... ...                                         55.0M=0s
+
+2026-07-11 13:58:23 (55.0 MB/s) - 'mirror/i.pravatar.cc/300?img=54' saved [13681]
+
+--2026-07-11 13:58:23--  https://images.unsplash.com/photo-1543002588-bfa74002ed7e?w=300&h=420&fit=crop
+Connecting to images.unsplash.com (images.unsplash.com)|151.101.194.208|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 20809 (20K) [image/jpeg]
+Saving to: 'mirror/images.unsplash.com/photo-1543002588-bfa74002ed7e?w=300&h=420&fit=crop'
+
+     0K .......... ..........                                 100% 19.4M=0.001s
+
+2026-07-11 13:58:23 (19.4 MB/s) - 'mirror/images.unsplash.com/photo-1543002588-bfa74002ed7e?w=300&h=420&fit=crop' saved [20809/20809]
+
+--2026-07-11 13:58:23--  https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700;800;900&family=Amiri:wght@400;700&display=swap
+Connecting to fonts.googleapis.com (fonts.googleapis.com)|74.125.20.95|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/css]
+Saving to: 'mirror/fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700;800;900&family=Amiri:wght@400;700&display=swap.css'
+
+     0K .                                                      22.3M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:23 (22.3 MB/s) - 'mirror/fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700;800;900&family=Amiri:wght@400;700&display=swap.css' saved [1413]
+
+--2026-07-11 13:58:23--  https://lawsbook.lovable.app/assets/styles-C_lcJl9F.css
+Connecting to lawsbook.lovable.app (lawsbook.lovable.app)|185.41.148.2|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 91090 (89K) [text/css]
+Saving to: 'mirror/lawsbook.lovable.app/assets/styles-C_lcJl9F.css'
+
+     0K .......... .......... .......... .......... .......... 56% 51.9M 0s
+    50K .......... .......... .......... ........             100% 5.80M=0.008s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:24 (11.6 MB/s) - 'mirror/lawsbook.lovable.app/assets/styles-C_lcJl9F.css' saved [91090/91090]
+
+--2026-07-11 13:58:24--  https://images.unsplash.com/photo-1512820790803-83ca734da794?w=900&h=700&fit=crop
+Connecting to images.unsplash.com (images.unsplash.com)|151.101.194.208|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 106166 (104K) [image/jpeg]
+Saving to: 'mirror/images.unsplash.com/photo-1512820790803-83ca734da794?w=900&h=700&fit=crop'
+
+     0K .......... .......... .......... .......... .......... 48% 6.94M 0s
+    50K .......... .......... .......... .......... .......... 96% 16.2M 0s
+   100K ...                                                   100% 6.85T=0.01s
+
+2026-07-11 13:58:24 (10.1 MB/s) - 'mirror/images.unsplash.com/photo-1512820790803-83ca734da794?w=900&h=700&fit=crop' saved [106166/106166]
+
+--2026-07-11 13:58:24--  https://i.pravatar.cc/300?img=61
+Connecting to i.pravatar.cc (i.pravatar.cc)|172.67.154.150|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: 'mirror/i.pravatar.cc/300?img=61'
+
+     0K .........                                               118M=0s
+
+2026-07-11 13:58:24 (118 MB/s) - 'mirror/i.pravatar.cc/300?img=61' saved [10023]
+
+--2026-07-11 13:58:24--  https://i.pravatar.cc/300?img=26
+Reusing existing connection to i.pravatar.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: 'mirror/i.pravatar.cc/300?img=26'
+
+     0K .......... ...                                         38.1M=0s
+
+2026-07-11 13:58:24 (38.1 MB/s) - 'mirror/i.pravatar.cc/300?img=26' saved [13521]
+
+--2026-07-11 13:58:24--  https://i.pravatar.cc/300?img=45
+Reusing existing connection to i.pravatar.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: 'mirror/i.pravatar.cc/300?img=45'
+
+     0K .......... .......                                     25.3M=0.001s
+
+2026-07-11 13:58:24 (25.3 MB/s) - 'mirror/i.pravatar.cc/300?img=45' saved [17607]
+
+--2026-07-11 13:58:24--  https://images.unsplash.com/photo-1532012197267-da84d127e765?w=300&h=420&fit=crop
+Connecting to images.unsplash.com (images.unsplash.com)|151.101.194.208|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 29913 (29K) [image/jpeg]
+Saving to: 'mirror/images.unsplash.com/photo-1532012197267-da84d127e765?w=300&h=420&fit=crop'
+
+     0K .......... .......... .........                       100% 19.7M=0.001s
+
+2026-07-11 13:58:25 (19.7 MB/s) - 'mirror/images.unsplash.com/photo-1532012197267-da84d127e765?w=300&h=420&fit=crop' saved [29913/29913]
+
+--2026-07-11 13:58:25--  https://i.pravatar.cc/300?img=52
+Connecting to i.pravatar.cc (i.pravatar.cc)|172.67.154.150|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: 'mirror/i.pravatar.cc/300?img=52'
+
+     0K .......... .....                                        114M=0s
+
+2026-07-11 13:58:25 (114 MB/s) - 'mirror/i.pravatar.cc/300?img=52' saved [16180]
+
+--2026-07-11 13:58:25--  https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=900&h=700&fit=crop
+Connecting to images.unsplash.com (images.unsplash.com)|151.101.194.208|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 102598 (100K) [image/jpeg]
+Saving to: 'mirror/images.unsplash.com/photo-1497366754035-f200968a6e72?w=900&h=700&fit=crop'
+
+     0K .......... .......... .......... .......... .......... 49% 7.70M 0s
+    50K .......... .......... .......... .......... .......... 99% 21.8M 0s
+   100K                                                       100%  369G=0.009s
+
+2026-07-11 13:58:25 (11.4 MB/s) - 'mirror/images.unsplash.com/photo-1497366754035-f200968a6e72?w=900&h=700&fit=crop' saved [102598/102598]
+
+--2026-07-11 13:58:25--  https://i.pravatar.cc/300?img=66
+Connecting to i.pravatar.cc (i.pravatar.cc)|172.67.154.150|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: 'mirror/i.pravatar.cc/300?img=66'
+
+     0K .......... .......... .                                 121M=0s
+
+2026-07-11 13:58:25 (121 MB/s) - 'mirror/i.pravatar.cc/300?img=66' saved [21582]
+
+--2026-07-11 13:58:25--  https://lawsbook.lovable.app/assets/index-CdPLgT_8.js
+Connecting to lawsbook.lovable.app (lawsbook.lovable.app)|185.41.148.2|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 445942 (435K) [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/index-CdPLgT_8.js'
+
+     0K .......... .......... .......... .......... .......... 11% 36.9M 0s
+    50K .......... .......... .......... .......... .......... 22% 8.40M 0s
+   100K .......... .......... .......... .......... .......... 34% 34.9M 0s
+   150K .......... .......... .......... .......... .......... 45% 10.0M 0s
+   200K .......... .......... .......... .......... .......... 57% 31.2M 0s
+   250K .......... .......... .......... .......... .......... 68% 12.2M 0s
+   300K .......... .......... .......... .......... .......... 80% 33.4M 0s
+   350K .......... .......... .......... .......... .......... 91% 54.4M 0s
+   400K .......... .......... .......... .....                100% 51.2M=0.02s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:25 (19.3 MB/s) - 'mirror/lawsbook.lovable.app/assets/index-CdPLgT_8.js' saved [445942/445942]
+
+--2026-07-11 13:58:25--  https://lawsbook.lovable.app/assets/index-DNsd6Aag.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 14566 (14K) [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/index-DNsd6Aag.js'
+
+     0K .......... ....                                       100%  244M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:26 (244 MB/s) - 'mirror/lawsbook.lovable.app/assets/index-DNsd6Aag.js' saved [14566/14566]
+
+--2026-07-11 13:58:26--  https://lawsbook.lovable.app/assets/AppShell-D_Nf7KT_.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3160 (3.1K) [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/AppShell-D_Nf7KT_.js'
+
+     0K ...                                                   100% 5.63M=0.001s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:26 (5.63 MB/s) - 'mirror/lawsbook.lovable.app/assets/AppShell-D_Nf7KT_.js' saved [3160/3160]
+
+--2026-07-11 13:58:26--  https://lawsbook.lovable.app/assets/TopBar-Pk6sH_nF.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2062 (2.0K) [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/TopBar-Pk6sH_nF.js'
+
+     0K ..                                                    100%  223M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:26 (223 MB/s) - 'mirror/lawsbook.lovable.app/assets/TopBar-Pk6sH_nF.js' saved [2062/2062]
+
+--2026-07-11 13:58:26--  https://lawsbook.lovable.app/assets/SocialPostCard-BKxg0x0H.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 14520 (14K) [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/SocialPostCard-BKxg0x0H.js'
+
+     0K .......... ....                                       100% 68.9M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:26 (68.9 MB/s) - 'mirror/lawsbook.lovable.app/assets/SocialPostCard-BKxg0x0H.js' saved [14520/14520]
+
+--2026-07-11 13:58:26--  https://lawsbook.lovable.app/assets/image-xLxAER9n.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 616 [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/image-xLxAER9n.js'
+
+     0K                                                       100% 1.54M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:26 (1.54 MB/s) - 'mirror/lawsbook.lovable.app/assets/image-xLxAER9n.js' saved [616/616]
+
+--2026-07-11 13:58:26--  https://lawsbook.lovable.app/assets/plus-CSSNQvVB.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 160 [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/plus-CSSNQvVB.js'
+
+     0K                                                       100% 3.03M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:26 (3.03 MB/s) - 'mirror/lawsbook.lovable.app/assets/plus-CSSNQvVB.js' saved [160/160]
+
+--2026-07-11 13:58:26--  https://lawsbook.lovable.app/assets/x-Du4lQjc2.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 161 [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/x-Du4lQjc2.js'
+
+     0K                                                       100% 3.53M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:27 (3.53 MB/s) - 'mirror/lawsbook.lovable.app/assets/x-Du4lQjc2.js' saved [161/161]
+
+--2026-07-11 13:58:27--  https://lawsbook.lovable.app/assets/arrow-right-CxoGxRmK.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1319 (1.3K) [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/arrow-right-CxoGxRmK.js'
+
+     0K .                                                     100%  165M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:27 (165 MB/s) - 'mirror/lawsbook.lovable.app/assets/arrow-right-CxoGxRmK.js' saved [1319/1319]
+
+--2026-07-11 13:58:27--  https://lawsbook.lovable.app/assets/image-BzqkdxCQ.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 276 [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/image-BzqkdxCQ.js'
+
+     0K                                                       100% 5.59M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:27 (5.59 MB/s) - 'mirror/lawsbook.lovable.app/assets/image-BzqkdxCQ.js' saved [276/276]
+
+--2026-07-11 13:58:27--  https://lawsbook.lovable.app/assets/video-H5aPjwe2.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 255 [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/video-H5aPjwe2.js'
+
+     0K                                                       100% 5.45M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:27 (5.45 MB/s) - 'mirror/lawsbook.lovable.app/assets/video-H5aPjwe2.js' saved [255/255]
+
+--2026-07-11 13:58:27--  https://lawsbook.lovable.app/assets/send-Dh4l0xZb.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 297 [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/send-Dh4l0xZb.js'
+
+     0K                                                       100%  811K=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:27 (811 KB/s) - 'mirror/lawsbook.lovable.app/assets/send-Dh4l0xZb.js' saved [297/297]
+
+--2026-07-11 13:58:27--  https://lawsbook.lovable.app/assets/trash-2-DoVufedh.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 563 [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/trash-2-DoVufedh.js'
+
+     0K                                                       100% 9.65M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:27 (9.65 MB/s) - 'mirror/lawsbook.lovable.app/assets/trash-2-DoVufedh.js' saved [563/563]
+
+--2026-07-11 13:58:27--  https://lawsbook.lovable.app/assets/eye-C5mSNvQU.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 258 [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/eye-C5mSNvQU.js'
+
+     0K                                                       100% 1.38M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:27 (1.38 MB/s) - 'mirror/lawsbook.lovable.app/assets/eye-C5mSNvQU.js' saved [258/258]
+
+--2026-07-11 13:58:27--  https://lawsbook.lovable.app/assets/book-open-BFOlK-WG.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 286 [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/book-open-BFOlK-WG.js'
+
+     0K                                                       100%  652K=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:28 (652 KB/s) - 'mirror/lawsbook.lovable.app/assets/book-open-BFOlK-WG.js' saved [286/286]
+
+--2026-07-11 13:58:28--  https://lawsbook.lovable.app/assets/file-text-Cm_B0HUi.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 392 [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/file-text-Cm_B0HUi.js'
+
+     0K                                                       100% 1.49M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:28 (1.49 MB/s) - 'mirror/lawsbook.lovable.app/assets/file-text-Cm_B0HUi.js' saved [392/392]
+
+--2026-07-11 13:58:28--  https://lawsbook.lovable.app/assets/user-check-oSDiUoSu.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 245 [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/user-check-oSDiUoSu.js'
+
+     0K                                                       100%  487K=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:28 (487 KB/s) - 'mirror/lawsbook.lovable.app/assets/user-check-oSDiUoSu.js' saved [245/245]
+
+--2026-07-11 13:58:28--  https://lawsbook.lovable.app/assets/user-plus-BE2Jx1jB.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 317 [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/user-plus-BE2Jx1jB.js'
+
+     0K                                                       100%  948K=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:28 (948 KB/s) - 'mirror/lawsbook.lovable.app/assets/user-plus-BE2Jx1jB.js' saved [317/317]
+
+--2026-07-11 13:58:28--  https://lawsbook.lovable.app/assets/user-B8BPbgAV.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 198 [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/user-B8BPbgAV.js'
+
+     0K                                                       100% 1.31M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:28 (1.31 MB/s) - 'mirror/lawsbook.lovable.app/assets/user-B8BPbgAV.js' saved [198/198]
+
+--2026-07-11 13:58:28--  https://lawsbook.lovable.app/assets/search-C8MOfKc_.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 176 [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/search-C8MOfKc_.js'
+
+     0K                                                       100%  172K=0.001s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:28 (172 KB/s) - 'mirror/lawsbook.lovable.app/assets/search-C8MOfKc_.js' saved [176/176]
+
+--2026-07-11 13:58:28--  https://lawsbook.lovable.app/assets/message-circle-w6NLNKJ3.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 248 [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/message-circle-w6NLNKJ3.js'
+
+     0K                                                       100% 4.97M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:28 (4.97 MB/s) - 'mirror/lawsbook.lovable.app/assets/message-circle-w6NLNKJ3.js' saved [248/248]
+
+--2026-07-11 13:58:28--  https://lawsbook.lovable.app/assets/bell-BPpjSJrp.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 297 [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/bell-BPpjSJrp.js'
+
+     0K                                                       100% 6.42M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:29 (6.42 MB/s) - 'mirror/lawsbook.lovable.app/assets/bell-BPpjSJrp.js' saved [297/297]
+
+--2026-07-11 13:58:29--  https://lawsbook.lovable.app/assets/sparkles-CCAmmFQA.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 501 [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/sparkles-CCAmmFQA.js'
+
+     0K                                                       100%  978K=0.001s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:29 (978 KB/s) - 'mirror/lawsbook.lovable.app/assets/sparkles-CCAmmFQA.js' saved [501/501]
+
+--2026-07-11 13:58:29--  https://lawsbook.lovable.app/assets/eye-off-B6xa74Iq.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 437 [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/eye-off-B6xa74Iq.js'
+
+     0K                                                       100% 1.04M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:29 (1.04 MB/s) - 'mirror/lawsbook.lovable.app/assets/eye-off-B6xa74Iq.js' saved [437/437]
+
+--2026-07-11 13:58:29--  https://lawsbook.lovable.app/assets/flag-DdP6Umax.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 261 [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/flag-DdP6Umax.js'
+
+     0K                                                       100% 5.48M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:29 (5.48 MB/s) - 'mirror/lawsbook.lovable.app/assets/flag-DdP6Umax.js' saved [261/261]
+
+--2026-07-11 13:58:29--  https://lawsbook.lovable.app/assets/heart-K1wZh5TY.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 265 [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/heart-K1wZh5TY.js'
+
+     0K                                                       100% 5.39M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:29 (5.39 MB/s) - 'mirror/lawsbook.lovable.app/assets/heart-K1wZh5TY.js' saved [265/265]
+
+--2026-07-11 13:58:29--  https://lawsbook.lovable.app/assets/bookmark-vqmxpmnD.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 237 [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/bookmark-vqmxpmnD.js'
+
+     0K                                                       100% 4.78M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:29 (4.78 MB/s) - 'mirror/lawsbook.lovable.app/assets/bookmark-vqmxpmnD.js' saved [237/237]
+
+--2026-07-11 13:58:29--  https://lawsbook.lovable.app/assets/send-horizontal-CaewVFVF.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 292 [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/send-horizontal-CaewVFVF.js'
+
+     0K                                                       100% 6.47M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:29 (6.47 MB/s) - 'mirror/lawsbook.lovable.app/assets/send-horizontal-CaewVFVF.js' saved [292/292]
+
+--2026-07-11 13:58:29--  https://lawsbook.lovable.app/assets/check-tmOUhEki.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 126 [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/check-tmOUhEki.js'
+
+     0K                                                       100% 19.6M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:30 (19.6 MB/s) - 'mirror/lawsbook.lovable.app/assets/check-tmOUhEki.js' saved [126/126]
+
+--2026-07-11 13:58:30--  https://fonts.googleapis.com/
+Connecting to fonts.googleapis.com (fonts.googleapis.com)|74.125.20.95|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2026-07-11 13:58:30 ERROR 404: Not Found.
+
+--2026-07-11 13:58:30--  https://fonts.gstatic.com/
+Connecting to fonts.gstatic.com (fonts.gstatic.com)|142.250.99.94|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2026-07-11 13:58:30 ERROR 404: Not Found.
+
+--2026-07-11 13:58:30--  https://cdn.gpteng.co/mcp-widgets/v1/fonts/CameraPlainVariable.woff2
+Connecting to cdn.gpteng.co (cdn.gpteng.co)|104.18.29.167|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 133760 (131K) [font/woff2]
+Saving to: 'mirror/cdn.gpteng.co/mcp-widgets/v1/fonts/CameraPlainVariable.woff2'
+
+     0K .......... .......... .......... .......... .......... 38% 58.6M 0s
+    50K .......... .......... .......... .......... .......... 76% 7.17M 0s
+   100K .......... .......... ..........                      100% 30.9M=0.009s
+
+2026-07-11 13:58:30 (14.8 MB/s) - 'mirror/cdn.gpteng.co/mcp-widgets/v1/fonts/CameraPlainVariable.woff2' saved [133760/133760]
+
+--2026-07-11 13:58:30--  https://lawsbook.lovable.app/~flock.js
+Connecting to lawsbook.lovable.app (lawsbook.lovable.app)|185.41.148.2|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 21296 (21K) [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/~flock.js'
+
+     0K .......... ..........                                 100%  102M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:30 (102 MB/s) - 'mirror/lawsbook.lovable.app/~flock.js' saved [21296/21296]
+
+--2026-07-11 13:58:30--  https://lawsbook.lovable.app/__l5e/events.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 44148 (43K) [application/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/__l5e/events.js'
+
+     0K .......... .......... .......... .......... ...       100% 38.1M=0.001s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:30 (38.1 MB/s) - 'mirror/lawsbook.lovable.app/__l5e/events.js' saved [44148/44148]
+
+--2026-07-11 13:58:30--  https://lawsbook.lovable.app/explore
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'mirror/lawsbook.lovable.app/explore.html'
+
+     0K .......... .......... .......... .......               63.8M=0.001s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:30 (63.8 MB/s) - 'mirror/lawsbook.lovable.app/explore.html' saved [38615]
+
+--2026-07-11 13:58:30--  https://lawsbook.lovable.app/messages
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'mirror/lawsbook.lovable.app/messages.html'
+
+     0K .......... .......... ....                             59.3M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:30 (59.3 MB/s) - 'mirror/lawsbook.lovable.app/messages.html' saved [24605]
+
+--2026-07-11 13:58:30--  https://lawsbook.lovable.app/notifications
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'mirror/lawsbook.lovable.app/notifications.html'
+
+     0K .......... .......... .......... .......... .......... 40.4M
+    50K .......                                                 195M=0.001s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:30 (45.3 MB/s) - 'mirror/lawsbook.lovable.app/notifications.html' saved [59305]
+
+--2026-07-11 13:58:30--  https://lawsbook.lovable.app/create
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'mirror/lawsbook.lovable.app/create.html'
+
+     0K .......... .......... .....                             134M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:30 (134 MB/s) - 'mirror/lawsbook.lovable.app/create.html' saved [26050]
+
+--2026-07-11 13:58:30--  https://lawsbook.lovable.app/u/sara_law
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'mirror/lawsbook.lovable.app/u/sara_law.html'
+
+     0K .......... .......... .......... ...                   67.7M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:30 (67.7 MB/s) - 'mirror/lawsbook.lovable.app/u/sara_law.html' saved [34176]
+
+--2026-07-11 13:58:30--  https://lawsbook.lovable.app/u/reem_books
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'mirror/lawsbook.lovable.app/u/reem_books.html'
+
+     0K .......... .......... .......... ..                    68.5M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:30 (68.5 MB/s) - 'mirror/lawsbook.lovable.app/u/reem_books.html' saved [33695]
+
+--2026-07-11 13:58:30--  https://lawsbook.lovable.app/u/nour_ai
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'mirror/lawsbook.lovable.app/u/nour_ai.html'
+
+     0K .......... .......... .......... ..                     109M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:30 (109 MB/s) - 'mirror/lawsbook.lovable.app/u/nour_ai.html' saved [33388]
+
+--2026-07-11 13:58:30--  https://lawsbook.lovable.app/u/basem_contracts
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'mirror/lawsbook.lovable.app/u/basem_contracts.html'
+
+     0K .......... .......... .......... .                     66.1M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:30 (66.1 MB/s) - 'mirror/lawsbook.lovable.app/u/basem_contracts.html' saved [32066]
+
+--2026-07-11 13:58:30--  https://lawsbook.lovable.app/u/salman_lib
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'mirror/lawsbook.lovable.app/u/salman_lib.html'
+
+     0K .......... .......... .......... .                      485M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:30 (485 MB/s) - 'mirror/lawsbook.lovable.app/u/salman_lib.html' saved [32008]
+
+--2026-07-11 13:58:30--  https://lawsbook.lovable.app/u/layla_docs
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'mirror/lawsbook.lovable.app/u/layla_docs.html'
+
+     0K .......... .......... .......... ..                     104M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:31 (104 MB/s) - 'mirror/lawsbook.lovable.app/u/layla_docs.html' saved [33286]
+
+--2026-07-11 13:58:31--  https://lawsbook.lovable.app/u/abdulmalik_hameed
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'mirror/lawsbook.lovable.app/u/abdulmalik_hameed.html'
+
+     0K .......... .......... .......... ..........            90.7M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:31 (90.7 MB/s) - 'mirror/lawsbook.lovable.app/u/abdulmalik_hameed.html' saved [41560]
+
+--2026-07-11 13:58:31--  https://lawsbook.lovable.app/u/shahd_media
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'mirror/lawsbook.lovable.app/u/shahd_media.html'
+
+     0K .......... .......... .......... .                     69.1M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:31 (69.1 MB/s) - 'mirror/lawsbook.lovable.app/u/shahd_media.html' saved [32375]
+
+--2026-07-11 13:58:31--  https://lawsbook.lovable.app/u/ayman_judge
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'mirror/lawsbook.lovable.app/u/ayman_judge.html'
+
+     0K .......... .......... .......... .                     58.1M=0.001s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:31 (58.1 MB/s) - 'mirror/lawsbook.lovable.app/u/ayman_judge.html' saved [32101]
+
+--2026-07-11 13:58:31--  https://lawsbook.lovable.app/u/hind_privacy
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'mirror/lawsbook.lovable.app/u/hind_privacy.html'
+
+     0K .......... .......... .......... .                     59.5M=0.001s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:31 (59.5 MB/s) - 'mirror/lawsbook.lovable.app/u/hind_privacy.html' saved [32174]
+
+--2026-07-11 13:58:31--  https://lawsbook.lovable.app/reels
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'mirror/lawsbook.lovable.app/reels.html'
+
+     0K .......... .......... .......... .......... .......... 22.9M
+    50K .....                                                  9.99T=0.002s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:31 (25.3 MB/s) - 'mirror/lawsbook.lovable.app/reels.html' saved [56692]
+
+--2026-07-11 13:58:31--  https://lawsbook.lovable.app/library
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'mirror/lawsbook.lovable.app/library.html'
+
+     0K .......... .......... .......... .......... .......... 30.8M
+    50K ........                                                166M=0.002s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:31 (34.9 MB/s) - 'mirror/lawsbook.lovable.app/library.html' saved [59864]
+
+--2026-07-11 13:58:31--  https://lawsbook.lovable.app/profile
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'mirror/lawsbook.lovable.app/profile.html'
+
+     0K .......... .......... .......... .......... .......... 40.8M
+    50K ...                                                    6.28T=0.001s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:31 (43.5 MB/s) - 'mirror/lawsbook.lovable.app/profile.html' saved [54653]
+
+--2026-07-11 13:58:31--  https://fonts.gstatic.com/s/amiri/v30/J7aRnpd8CGxBHqUp.ttf
+Connecting to fonts.gstatic.com (fonts.gstatic.com)|142.250.99.94|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 385840 (377K) [font/ttf]
+Saving to: 'mirror/fonts.gstatic.com/s/amiri/v30/J7aRnpd8CGxBHqUp.ttf'
+
+     0K .......... .......... .......... .......... .......... 13%  137M 0s
+    50K .......... .......... .......... .......... .......... 26% 81.6M 0s
+   100K .......... .......... .......... .......... .......... 39% 93.4M 0s
+   150K .......... .......... .......... .......... .......... 53% 61.4M 0s
+   200K .......... .......... .......... .......... .......... 66%  174M 0s
+   250K .......... .......... .......... .......... .......... 79%  184M 0s
+   300K .......... .......... .......... .......... .......... 92%  191M 0s
+   350K .......... .......... ......                          100%  191M=0.003s
+
+2026-07-11 13:58:31 (115 MB/s) - 'mirror/fonts.gstatic.com/s/amiri/v30/J7aRnpd8CGxBHqUp.ttf' saved [385840/385840]
+
+--2026-07-11 13:58:31--  https://fonts.gstatic.com/s/amiri/v30/J7acnpd8CGxBHp2VkZY4.ttf
+Reusing existing connection to fonts.gstatic.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 368616 (360K) [font/ttf]
+Saving to: 'mirror/fonts.gstatic.com/s/amiri/v30/J7acnpd8CGxBHp2VkZY4.ttf'
+
+     0K .......... .......... .......... .......... .......... 13%  161M 0s
+    50K .......... .......... .......... .......... .......... 27% 48.3M 0s
+   100K .......... .......... .......... .......... .......... 41% 72.6M 0s
+   150K .......... .......... .......... .......... .......... 55%  117M 0s
+   200K .......... .......... .......... .......... .......... 69%  102M 0s
+   250K .......... .......... .......... .......... .......... 83%  182M 0s
+   300K .......... .......... .......... .......... .......... 97%  194M 0s
+   350K .........                                             100%  177M=0.003s
+
+2026-07-11 13:58:31 (102 MB/s) - 'mirror/fonts.gstatic.com/s/amiri/v30/J7acnpd8CGxBHp2VkZY4.ttf' saved [368616/368616]
+
+--2026-07-11 13:58:31--  https://fonts.gstatic.com/s/tajawal/v12/Iura6YBj_oCad4k1rzY.ttf
+Reusing existing connection to fonts.gstatic.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 55072 (54K) [font/ttf]
+Saving to: 'mirror/fonts.gstatic.com/s/tajawal/v12/Iura6YBj_oCad4k1rzY.ttf'
+
+     0K .......... .......... .......... .......... .......... 92% 49.7M 0s
+    50K ...                                                   100%  100M=0.001s
+
+2026-07-11 13:58:31 (51.5 MB/s) - 'mirror/fonts.gstatic.com/s/tajawal/v12/Iura6YBj_oCad4k1rzY.ttf' saved [55072/55072]
+
+--2026-07-11 13:58:31--  https://fonts.gstatic.com/s/tajawal/v12/Iurf6YBj_oCad4k1l8KiLrY.ttf
+Reusing existing connection to fonts.gstatic.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 56284 (55K) [font/ttf]
+Saving to: 'mirror/fonts.gstatic.com/s/tajawal/v12/Iurf6YBj_oCad4k1l8KiLrY.ttf'
+
+     0K .......... .......... .......... .......... .......... 90%  161M 0s
+    50K ....                                                  100%  128M=0s
+
+2026-07-11 13:58:31 (157 MB/s) - 'mirror/fonts.gstatic.com/s/tajawal/v12/Iurf6YBj_oCad4k1l8KiLrY.ttf' saved [56284/56284]
+
+--2026-07-11 13:58:31--  https://fonts.gstatic.com/s/tajawal/v12/Iurf6YBj_oCad4k1l4qkLrY.ttf
+Reusing existing connection to fonts.gstatic.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 55520 (54K) [font/ttf]
+Saving to: 'mirror/fonts.gstatic.com/s/tajawal/v12/Iurf6YBj_oCad4k1l4qkLrY.ttf'
+
+     0K .......... .......... .......... .......... .......... 92%  164M 0s
+    50K ....                                                  100%  131M=0s
+
+2026-07-11 13:58:31 (161 MB/s) - 'mirror/fonts.gstatic.com/s/tajawal/v12/Iurf6YBj_oCad4k1l4qkLrY.ttf' saved [55520/55520]
+
+--2026-07-11 13:58:31--  https://fonts.gstatic.com/s/tajawal/v12/Iurf6YBj_oCad4k1l5anLrY.ttf
+Reusing existing connection to fonts.gstatic.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 55244 (54K) [font/ttf]
+Saving to: 'mirror/fonts.gstatic.com/s/tajawal/v12/Iurf6YBj_oCad4k1l5anLrY.ttf'
+
+     0K .......... .......... .......... .......... .......... 92%  119M 0s
+    50K ...                                                   100%  107M=0s
+
+2026-07-11 13:58:31 (118 MB/s) - 'mirror/fonts.gstatic.com/s/tajawal/v12/Iurf6YBj_oCad4k1l5anLrY.ttf' saved [55244/55244]
+
+--2026-07-11 13:58:31--  https://fonts.gstatic.com/s/tajawal/v12/Iurf6YBj_oCad4k1l7KmLrY.ttf
+Reusing existing connection to fonts.gstatic.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 54672 (53K) [font/ttf]
+Saving to: 'mirror/fonts.gstatic.com/s/tajawal/v12/Iurf6YBj_oCad4k1l7KmLrY.ttf'
+
+     0K .......... .......... .......... .......... .......... 93%  165M 0s
+    50K ...                                                   100%  111M=0s
+
+2026-07-11 13:58:31 (160 MB/s) - 'mirror/fonts.gstatic.com/s/tajawal/v12/Iurf6YBj_oCad4k1l7KmLrY.ttf' saved [54672/54672]
+
+--2026-07-11 13:58:31--  https://i.pravatar.cc/300?img=41
+Connecting to i.pravatar.cc (i.pravatar.cc)|172.67.154.150|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: 'mirror/i.pravatar.cc/300?img=41'
+
+     0K .......... ..                                          77.5M=0s
+
+2026-07-11 13:58:31 (77.5 MB/s) - 'mirror/i.pravatar.cc/300?img=41' saved [13045]
+
+--2026-07-11 13:58:31--  https://i.pravatar.cc/300?img=57
+Reusing existing connection to i.pravatar.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: 'mirror/i.pravatar.cc/300?img=57'
+
+     0K ..........                                              120M=0s
+
+2026-07-11 13:58:31 (120 MB/s) - 'mirror/i.pravatar.cc/300?img=57' saved [10644]
+
+--2026-07-11 13:58:31--  https://i.pravatar.cc/300?img=38
+Reusing existing connection to i.pravatar.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: 'mirror/i.pravatar.cc/300?img=38'
+
+     0K .......... .......                                     83.4M=0s
+
+2026-07-11 13:58:31 (83.4 MB/s) - 'mirror/i.pravatar.cc/300?img=38' saved [18417]
+
+--2026-07-11 13:58:31--  https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&h=400&fit=crop
+Connecting to images.unsplash.com (images.unsplash.com)|151.101.194.208|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 37000 (36K) [image/jpeg]
+Saving to: 'mirror/images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&h=400&fit=crop'
+
+     0K .......... .......... .......... ......               100% 22.6M=0.002s
+
+2026-07-11 13:58:31 (22.6 MB/s) - 'mirror/images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&h=400&fit=crop' saved [37000/37000]
+
+--2026-07-11 13:58:31--  https://images.unsplash.com/photo-1512820790803-83ca734da794?w=400&h=400&fit=crop
+Reusing existing connection to images.unsplash.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 43581 (43K) [image/jpeg]
+Saving to: 'mirror/images.unsplash.com/photo-1512820790803-83ca734da794?w=400&h=400&fit=crop'
+
+     0K .......... .......... .......... .......... ..        100% 25.6M=0.002s
+
+2026-07-11 13:58:31 (25.6 MB/s) - 'mirror/images.unsplash.com/photo-1512820790803-83ca734da794?w=400&h=400&fit=crop' saved [43581/43581]
+
+--2026-07-11 13:58:31--  https://images.unsplash.com/photo-1543002588-bfa74002ed7e?w=400&h=400&fit=crop
+Reusing existing connection to images.unsplash.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 29830 (29K) [image/jpeg]
+Saving to: 'mirror/images.unsplash.com/photo-1543002588-bfa74002ed7e?w=400&h=400&fit=crop'
+
+     0K .......... .......... .........                       100%  360M=0s
+
+2026-07-11 13:58:31 (360 MB/s) - 'mirror/images.unsplash.com/photo-1543002588-bfa74002ed7e?w=400&h=400&fit=crop' saved [29830/29830]
+
+--2026-07-11 13:58:31--  https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=400&h=400&fit=crop
+Reusing existing connection to images.unsplash.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23431 (23K) [image/jpeg]
+Saving to: 'mirror/images.unsplash.com/photo-1450101499163-c8848c66ca85?w=400&h=400&fit=crop'
+
+     0K .......... .......... ..                              100% 89.1M=0s
+
+2026-07-11 13:58:31 (89.1 MB/s) - 'mirror/images.unsplash.com/photo-1450101499163-c8848c66ca85?w=400&h=400&fit=crop' saved [23431/23431]
+
+--2026-07-11 13:58:31--  https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=400&fit=crop
+Reusing existing connection to images.unsplash.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 36299 (35K) [image/jpeg]
+Saving to: 'mirror/images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=400&fit=crop'
+
+     0K .......... .......... .......... .....                100% 53.2M=0.001s
+
+2026-07-11 13:58:31 (53.2 MB/s) - 'mirror/images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=400&fit=crop' saved [36299/36299]
+
+--2026-07-11 13:58:31--  https://images.unsplash.com/photo-1532012197267-da84d127e765?w=400&h=400&fit=crop
+Reusing existing connection to images.unsplash.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 38056 (37K) [image/jpeg]
+Saving to: 'mirror/images.unsplash.com/photo-1532012197267-da84d127e765?w=400&h=400&fit=crop'
+
+     0K .......... .......... .......... .......              100% 52.5M=0.001s
+
+2026-07-11 13:58:31 (52.5 MB/s) - 'mirror/images.unsplash.com/photo-1532012197267-da84d127e765?w=400&h=400&fit=crop' saved [38056/38056]
+
+--2026-07-11 13:58:31--  https://images.unsplash.com/photo-1495640388908-05fa85288e61?w=400&h=400&fit=crop
+Reusing existing connection to images.unsplash.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 35887 (35K) [image/jpeg]
+Saving to: 'mirror/images.unsplash.com/photo-1495640388908-05fa85288e61?w=400&h=400&fit=crop'
+
+     0K .......... .......... .......... .....                100% 41.6M=0.001s
+
+2026-07-11 13:58:31 (41.6 MB/s) - 'mirror/images.unsplash.com/photo-1495640388908-05fa85288e61?w=400&h=400&fit=crop' saved [35887/35887]
+
+--2026-07-11 13:58:31--  https://images.unsplash.com/photo-1589998059171-988d887df646?w=400&h=400&fit=crop
+Reusing existing connection to images.unsplash.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 25004 (24K) [image/jpeg]
+Saving to: 'mirror/images.unsplash.com/photo-1589998059171-988d887df646?w=400&h=400&fit=crop'
+
+     0K .......... .......... ....                            100%  325M=0s
+
+2026-07-11 13:58:32 (325 MB/s) - 'mirror/images.unsplash.com/photo-1589998059171-988d887df646?w=400&h=400&fit=crop' saved [25004/25004]
+
+--2026-07-11 13:58:32--  https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=400&h=400&fit=crop
+Reusing existing connection to images.unsplash.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 16456 (16K) [image/jpeg]
+Saving to: 'mirror/images.unsplash.com/photo-1519682337058-a94d519337bc?w=400&h=400&fit=crop'
+
+     0K .......... ......                                     100%  226M=0s
+
+2026-07-11 13:58:32 (226 MB/s) - 'mirror/images.unsplash.com/photo-1519682337058-a94d519337bc?w=400&h=400&fit=crop' saved [16456/16456]
+
+--2026-07-11 13:58:32--  https://lawsbook.lovable.app/assets/explore-CgzsRD3Y.js
+Connecting to lawsbook.lovable.app (lawsbook.lovable.app)|185.41.148.2|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4438 (4.3K) [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/explore-CgzsRD3Y.js'
+
+     0K ....                                                  100% 54.6M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:32 (54.6 MB/s) - 'mirror/lawsbook.lovable.app/assets/explore-CgzsRD3Y.js' saved [4438/4438]
+
+--2026-07-11 13:58:32--  https://lawsbook.lovable.app/assets/trending-up-C1q5zgrw.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 182 [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/trending-up-C1q5zgrw.js'
+
+     0K                                                       100% 4.78M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:32 (4.78 MB/s) - 'mirror/lawsbook.lovable.app/assets/trending-up-C1q5zgrw.js' saved [182/182]
+
+--2026-07-11 13:58:32--  https://lawsbook.lovable.app/assets/hash-CsPebUAr.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 303 [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/hash-CsPebUAr.js'
+
+     0K                                                       100% 7.55M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:32 (7.55 MB/s) - 'mirror/lawsbook.lovable.app/assets/hash-CsPebUAr.js' saved [303/303]
+
+--2026-07-11 13:58:32--  https://i.pravatar.cc/80?img=47
+Connecting to i.pravatar.cc (i.pravatar.cc)|172.67.154.150|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2476 (2.4K) [image/jpeg]
+Saving to: 'mirror/i.pravatar.cc/80?img=47'
+
+     0K ..                                                    100% 57.8M=0s
+
+2026-07-11 13:58:32 (57.8 MB/s) - 'mirror/i.pravatar.cc/80?img=47' saved [2476/2476]
+
+--2026-07-11 13:58:32--  https://i.pravatar.cc/80?img=33
+Reusing existing connection to i.pravatar.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2364 (2.3K) [image/jpeg]
+Saving to: 'mirror/i.pravatar.cc/80?img=33'
+
+     0K ..                                                    100% 69.7M=0s
+
+2026-07-11 13:58:32 (69.7 MB/s) - 'mirror/i.pravatar.cc/80?img=33' saved [2364/2364]
+
+--2026-07-11 13:58:32--  https://i.pravatar.cc/80?img=49
+Reusing existing connection to i.pravatar.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2427 (2.4K) [image/jpeg]
+Saving to: 'mirror/i.pravatar.cc/80?img=49'
+
+     0K ..                                                    100% 58.3M=0s
+
+2026-07-11 13:58:32 (58.3 MB/s) - 'mirror/i.pravatar.cc/80?img=49' saved [2427/2427]
+
+--2026-07-11 13:58:32--  https://i.pravatar.cc/80?img=15
+Reusing existing connection to i.pravatar.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2292 (2.2K) [image/jpeg]
+Saving to: 'mirror/i.pravatar.cc/80?img=15'
+
+     0K ..                                                    100% 55.5M=0s
+
+2026-07-11 13:58:32 (55.5 MB/s) - 'mirror/i.pravatar.cc/80?img=15' saved [2292/2292]
+
+--2026-07-11 13:58:32--  https://i.pravatar.cc/80?img=45
+Reusing existing connection to i.pravatar.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2735 (2.7K) [image/jpeg]
+Saving to: 'mirror/i.pravatar.cc/80?img=45'
+
+     0K ..                                                    100% 60.4M=0s
+
+2026-07-11 13:58:32 (60.4 MB/s) - 'mirror/i.pravatar.cc/80?img=45' saved [2735/2735]
+
+--2026-07-11 13:58:32--  https://lawsbook.lovable.app/assets/messages-BebWOrHw.js
+Connecting to lawsbook.lovable.app (lawsbook.lovable.app)|185.41.148.2|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3466 (3.4K) [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/messages-BebWOrHw.js'
+
+     0K ...                                                   100% 57.3M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:33 (57.3 MB/s) - 'mirror/lawsbook.lovable.app/assets/messages-BebWOrHw.js' saved [3466/3466]
+
+--2026-07-11 13:58:33--  https://i.pravatar.cc/300?img=35
+Connecting to i.pravatar.cc (i.pravatar.cc)|172.67.154.150|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: 'mirror/i.pravatar.cc/300?img=35'
+
+     0K .......... .......                                     70.7M=0s
+
+2026-07-11 13:58:33 (70.7 MB/s) - 'mirror/i.pravatar.cc/300?img=35' saved [17728]
+
+--2026-07-11 13:58:33--  https://i.pravatar.cc/300?img=33
+Reusing existing connection to i.pravatar.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: 'mirror/i.pravatar.cc/300?img=33'
+
+     0K .......... ....                                         104M=0s
+
+2026-07-11 13:58:33 (104 MB/s) - 'mirror/i.pravatar.cc/300?img=33' saved [14633]
+
+--2026-07-11 13:58:33--  https://i.pravatar.cc/300?img=63
+Reusing existing connection to i.pravatar.cc:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: 'mirror/i.pravatar.cc/300?img=63'
+
+     0K .......... ......                                      96.9M=0s
+
+2026-07-11 13:58:33 (96.9 MB/s) - 'mirror/i.pravatar.cc/300?img=63' saved [17383]
+
+--2026-07-11 13:58:33--  https://lawsbook.lovable.app/assets/notifications-Dx1R5ueh.js
+Connecting to lawsbook.lovable.app (lawsbook.lovable.app)|185.41.148.2|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3098 (3.0K) [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/notifications-Dx1R5ueh.js'
+
+     0K ...                                                   100% 57.1M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:33 (57.1 MB/s) - 'mirror/lawsbook.lovable.app/assets/notifications-Dx1R5ueh.js' saved [3098/3098]
+
+--2026-07-11 13:58:33--  https://lawsbook.lovable.app/post/p2
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2026-07-11 13:58:33 ERROR 500: Internal Server Error.
+
+--2026-07-11 13:58:33--  https://lawsbook.lovable.app/post/p2?c=c3
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'mirror/lawsbook.lovable.app/post/p2?c=c3.html'
+
+     0K .......... .......... .......                          76.8M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:33 (76.8 MB/s) - 'mirror/lawsbook.lovable.app/post/p2?c=c3.html' saved [28013]
+
+--2026-07-11 13:58:33--  https://lawsbook.lovable.app/post/p2?c=c4
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'mirror/lawsbook.lovable.app/post/p2?c=c4.html'
+
+     0K .......... .......... .......                          95.9M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:33 (95.9 MB/s) - 'mirror/lawsbook.lovable.app/post/p2?c=c4.html' saved [28013]
+
+--2026-07-11 13:58:33--  https://lawsbook.lovable.app/post/p5
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2026-07-11 13:58:33 ERROR 500: Internal Server Error.
+
+--2026-07-11 13:58:33--  https://lawsbook.lovable.app/post/p5?c=c7
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'mirror/lawsbook.lovable.app/post/p5?c=c7.html'
+
+     0K .......... .......... ......                           50.7M=0.001s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:33 (50.7 MB/s) - 'mirror/lawsbook.lovable.app/post/p5?c=c7.html' saved [27513]
+
+--2026-07-11 13:58:33--  https://lawsbook.lovable.app/post/p9
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2026-07-11 13:58:33 ERROR 500: Internal Server Error.
+
+--2026-07-11 13:58:33--  https://lawsbook.lovable.app/post/p9?c=c11
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'mirror/lawsbook.lovable.app/post/p9?c=c11.html'
+
+     0K .......... .......... ......                            180M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:34 (180 MB/s) - 'mirror/lawsbook.lovable.app/post/p9?c=c11.html' saved [26684]
+
+--2026-07-11 13:58:34--  https://lawsbook.lovable.app/u/ahmed_m
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'mirror/lawsbook.lovable.app/u/ahmed_m.html'
+
+     0K .......... .......... .......                           124M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:34 (124 MB/s) - 'mirror/lawsbook.lovable.app/u/ahmed_m.html' saved [28388]
+
+--2026-07-11 13:58:34--  https://lawsbook.lovable.app/u/yousef_case
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'mirror/lawsbook.lovable.app/u/yousef_case.html'
+
+     0K .......... .......... .......                          64.9M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:34 (64.9 MB/s) - 'mirror/lawsbook.lovable.app/u/yousef_case.html' saved [28414]
+
+--2026-07-11 13:58:34--  https://lawsbook.lovable.app/u/jana_copyright
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'mirror/lawsbook.lovable.app/u/jana_copyright.html'
+
+     0K .......... .......... .......                           240M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:34 (240 MB/s) - 'mirror/lawsbook.lovable.app/u/jana_copyright.html' saved [27788]
+
+--2026-07-11 13:58:34--  https://lawsbook.lovable.app/u/fares_policy
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'mirror/lawsbook.lovable.app/u/fares_policy.html'
+
+     0K .......... .......... .......                          84.9M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:34 (84.9 MB/s) - 'mirror/lawsbook.lovable.app/u/fares_policy.html' saved [27754]
+
+--2026-07-11 13:58:34--  https://lawsbook.lovable.app/assets/create-BtrA-aUr.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 38051 (37K) [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/create-BtrA-aUr.js'
+
+     0K .......... .......... .......... .......              100% 75.1M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:34 (75.1 MB/s) - 'mirror/lawsbook.lovable.app/assets/create-BtrA-aUr.js' saved [38051/38051]
+
+--2026-07-11 13:58:34--  https://lawsbook.lovable.app/assets/users-DkawF_wj.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 313 [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/users-DkawF_wj.js'
+
+     0K                                                       100% 45.7M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:34 (45.7 MB/s) - 'mirror/lawsbook.lovable.app/assets/users-DkawF_wj.js' saved [313/313]
+
+--2026-07-11 13:58:34--  https://lawsbook.lovable.app/assets/graduation-cap-CiMcCeYU.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 339 [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/graduation-cap-CiMcCeYU.js'
+
+     0K                                                       100% 6.86M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:34 (6.86 MB/s) - 'mirror/lawsbook.lovable.app/assets/graduation-cap-CiMcCeYU.js' saved [339/339]
+
+--2026-07-11 13:58:34--  https://lawsbook.lovable.app/assets/message-square-Cdz6yYcK.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 240 [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/message-square-Cdz6yYcK.js'
+
+     0K                                                       100% 5.44M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:34 (5.44 MB/s) - 'mirror/lawsbook.lovable.app/assets/message-square-Cdz6yYcK.js' saved [240/240]
+
+--2026-07-11 13:58:34--  https://lawsbook.lovable.app/assets/loader-circle-BusFxg36.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 146 [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/loader-circle-BusFxg36.js'
+
+     0K                                                       100% 3.01M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:34 (3.01 MB/s) - 'mirror/lawsbook.lovable.app/assets/loader-circle-BusFxg36.js' saved [146/146]
+
+--2026-07-11 13:58:34--  https://lawsbook.lovable.app/assets/upload-DAPHbBiq.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 237 [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/upload-DAPHbBiq.js'
+
+     0K                                                       100% 29.0M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:35 (29.0 MB/s) - 'mirror/lawsbook.lovable.app/assets/upload-DAPHbBiq.js' saved [237/237]
+
+--2026-07-11 13:58:35--  https://lawsbook.lovable.app/assets/u._handle-DLcyiXxA.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 6921 (6.8K) [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/u._handle-DLcyiXxA.js'
+
+     0K ......                                                100%  390M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:35 (390 MB/s) - 'mirror/lawsbook.lovable.app/assets/u._handle-DLcyiXxA.js' saved [6921/6921]
+
+--2026-07-11 13:58:35--  https://lawsbook.lovable.app/assets/ban-CrJobeby.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 183 [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/ban-CrJobeby.js'
+
+     0K                                                       100% 4.22M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:35 (4.22 MB/s) - 'mirror/lawsbook.lovable.app/assets/ban-CrJobeby.js' saved [183/183]
+
+--2026-07-11 13:58:35--  https://lawsbook.lovable.app/assets/map-pin-Bxy3IVv-.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 261 [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/map-pin-Bxy3IVv-.js'
+
+     0K                                                       100% 7.14M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:35 (7.14 MB/s) - 'mirror/lawsbook.lovable.app/assets/map-pin-Bxy3IVv-.js' saved [261/261]
+
+--2026-07-11 13:58:35--  https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=900&q=80
+Connecting to images.unsplash.com (images.unsplash.com)|151.101.194.208|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 165766 (162K) [image/jpeg]
+Saving to: 'mirror/images.unsplash.com/photo-1507842217343-583bb7270b66?w=900&q=80'
+
+     0K .......... .......... .......... .......... .......... 30% 7.86M 0s
+    50K .......... .......... .......... .......... .......... 61% 21.0M 0s
+   100K .......... .......... .......... .......... .......... 92% 10.4M 0s
+   150K .......... .                                          100%  255M=0.01s
+
+2026-07-11 13:58:35 (11.9 MB/s) - 'mirror/images.unsplash.com/photo-1507842217343-583bb7270b66?w=900&q=80' saved [165766/165766]
+
+--2026-07-11 13:58:35--  https://lawsbook.lovable.app/assets/reels-N3ivTDJE.js
+Connecting to lawsbook.lovable.app (lawsbook.lovable.app)|185.41.148.2|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/reels-N3ivTDJE.js'
+
+     0K .........                                             100%  114M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:35 (114 MB/s) - 'mirror/lawsbook.lovable.app/assets/reels-N3ivTDJE.js' saved [9889/9889]
+
+--2026-07-11 13:58:35--  https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=720&h=1280&fit=crop
+Connecting to images.unsplash.com (images.unsplash.com)|151.101.194.208|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 123796 (121K) [image/jpeg]
+Saving to: 'mirror/images.unsplash.com/photo-1481627834876-b7833e8f5570?w=720&h=1280&fit=crop'
+
+     0K .......... .......... .......... .......... .......... 41% 5.62M 0s
+    50K .......... .......... .......... .......... .......... 82% 6.63M 0s
+   100K .......... ..........                                 100% 55.7M=0.02s
+
+2026-07-11 13:58:36 (7.19 MB/s) - 'mirror/images.unsplash.com/photo-1481627834876-b7833e8f5570?w=720&h=1280&fit=crop' saved [123796/123796]
+
+--2026-07-11 13:58:36--  https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=720&h=1280&fit=crop
+Reusing existing connection to images.unsplash.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 108675 (106K) [image/jpeg]
+Saving to: 'mirror/images.unsplash.com/photo-1450101499163-c8848c66ca85?w=720&h=1280&fit=crop'
+
+     0K .......... .......... .......... .......... .......... 47% 82.0M 0s
+    50K .......... .......... .......... .......... .......... 94% 33.1M 0s
+   100K ......                                                100% 11.4T=0.002s
+
+2026-07-11 13:58:36 (50.1 MB/s) - 'mirror/images.unsplash.com/photo-1450101499163-c8848c66ca85?w=720&h=1280&fit=crop' saved [108675/108675]
+
+--2026-07-11 13:58:36--  https://images.unsplash.com/photo-1677442135722-5f12c5b9b3a3?w=720&h=1280&fit=crop
+Reusing existing connection to images.unsplash.com:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-07-11 13:58:37 ERROR 404: Not Found.
+
+--2026-07-11 13:58:37--  https://images.unsplash.com/photo-1512820790803-83ca734da794?w=720&h=1280&fit=crop
+Reusing existing connection to images.unsplash.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 156295 (153K) [image/jpeg]
+Saving to: 'mirror/images.unsplash.com/photo-1512820790803-83ca734da794?w=720&h=1280&fit=crop'
+
+     0K .......... .......... .......... .......... .......... 32% 35.1M 0s
+    50K .......... .......... .......... .......... .......... 65% 74.2M 0s
+   100K .......... .......... .......... .......... .......... 98% 7.06M 0s
+   150K ..                                                    100% 4.90T=0.009s
+
+2026-07-11 13:58:37 (16.6 MB/s) - 'mirror/images.unsplash.com/photo-1512820790803-83ca734da794?w=720&h=1280&fit=crop' saved [156295/156295]
+
+--2026-07-11 13:58:37--  https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=720&h=1280&fit=crop
+Reusing existing connection to images.unsplash.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 154151 (151K) [image/jpeg]
+Saving to: 'mirror/images.unsplash.com/photo-1554224155-6726b3ff858f?w=720&h=1280&fit=crop'
+
+     0K .......... .......... .......... .......... .......... 33% 13.7M 0s
+    50K .......... .......... .......... .......... .......... 66% 3.96M 0s
+   100K .......... .......... .......... .......... .......... 99% 16.5M 0s
+   150K                                                       100% 9.96M=0.02s
+
+2026-07-11 13:58:37 (7.78 MB/s) - 'mirror/images.unsplash.com/photo-1554224155-6726b3ff858f?w=720&h=1280&fit=crop' saved [154151/154151]
+
+--2026-07-11 13:58:37--  https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=720&h=1280&fit=crop
+Reusing existing connection to images.unsplash.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 133428 (130K) [image/jpeg]
+Saving to: 'mirror/images.unsplash.com/photo-1516321318423-f06f85e504b3?w=720&h=1280&fit=crop'
+
+     0K .......... .......... .......... .......... .......... 38% 47.7M 0s
+    50K .......... .......... .......... .......... .......... 76%  314M 0s
+   100K .......... .......... ..........                      100% 46.8M=0.002s
+
+2026-07-11 13:58:37 (70.3 MB/s) - 'mirror/images.unsplash.com/photo-1516321318423-f06f85e504b3?w=720&h=1280&fit=crop' saved [133428/133428]
+
+--2026-07-11 13:58:37--  https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=560&fit=crop
+Reusing existing connection to images.unsplash.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 46754 (46K) [image/jpeg]
+Saving to: 'mirror/images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=560&fit=crop'
+
+     0K .......... .......... .......... .......... .....     100%  275M=0s
+
+2026-07-11 13:58:37 (275 MB/s) - 'mirror/images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=560&fit=crop' saved [46754/46754]
+
+--2026-07-11 13:58:37--  https://images.unsplash.com/photo-1543002588-bfa74002ed7e?w=400&h=560&fit=crop
+Reusing existing connection to images.unsplash.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 31722 (31K) [image/jpeg]
+Saving to: 'mirror/images.unsplash.com/photo-1543002588-bfa74002ed7e?w=400&h=560&fit=crop'
+
+     0K .......... .......... ..........                      100%  483M=0s
+
+2026-07-11 13:58:37 (483 MB/s) - 'mirror/images.unsplash.com/photo-1543002588-bfa74002ed7e?w=400&h=560&fit=crop' saved [31722/31722]
+
+--2026-07-11 13:58:37--  https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&h=560&fit=crop
+Reusing existing connection to images.unsplash.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 47463 (46K) [image/jpeg]
+Saving to: 'mirror/images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&h=560&fit=crop'
+
+     0K .......... .......... .......... .......... ......    100%  122M=0s
+
+2026-07-11 13:58:37 (122 MB/s) - 'mirror/images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&h=560&fit=crop' saved [47463/47463]
+
+--2026-07-11 13:58:37--  https://images.unsplash.com/photo-1512820790803-83ca734da794?w=400&h=560&fit=crop
+Reusing existing connection to images.unsplash.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 56045 (55K) [image/jpeg]
+Saving to: 'mirror/images.unsplash.com/photo-1512820790803-83ca734da794?w=400&h=560&fit=crop'
+
+     0K .......... .......... .......... .......... .......... 91% 86.6M 0s
+    50K ....                                                  100% 24.3M=0.001s
+
+2026-07-11 13:58:37 (70.9 MB/s) - 'mirror/images.unsplash.com/photo-1512820790803-83ca734da794?w=400&h=560&fit=crop' saved [56045/56045]
+
+--2026-07-11 13:58:37--  https://images.unsplash.com/photo-1677442135722-5f12c5b9b3a3?w=400&h=560&fit=crop
+Reusing existing connection to images.unsplash.com:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-07-11 13:58:37 ERROR 404: Not Found.
+
+--2026-07-11 13:58:37--  https://images.unsplash.com/photo-1532012197267-da84d127e765?w=400&h=560&fit=crop
+Reusing existing connection to images.unsplash.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 45282 (44K) [image/jpeg]
+Saving to: 'mirror/images.unsplash.com/photo-1532012197267-da84d127e765?w=400&h=560&fit=crop'
+
+     0K .......... .......... .......... .......... ....      100%  117M=0s
+
+2026-07-11 13:58:38 (117 MB/s) - 'mirror/images.unsplash.com/photo-1532012197267-da84d127e765?w=400&h=560&fit=crop' saved [45282/45282]
+
+--2026-07-11 13:58:38--  https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=400&h=560&fit=crop
+Reusing existing connection to images.unsplash.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 42891 (42K) [image/jpeg]
+Saving to: 'mirror/images.unsplash.com/photo-1516321318423-f06f85e504b3?w=400&h=560&fit=crop'
+
+     0K .......... .......... .......... .......... .         100% 80.1M=0.001s
+
+2026-07-11 13:58:38 (80.1 MB/s) - 'mirror/images.unsplash.com/photo-1516321318423-f06f85e504b3?w=400&h=560&fit=crop' saved [42891/42891]
+
+--2026-07-11 13:58:38--  https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=400&h=560&fit=crop
+Reusing existing connection to images.unsplash.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 27680 (27K) [image/jpeg]
+Saving to: 'mirror/images.unsplash.com/photo-1497633762265-9d179a990aa6?w=400&h=560&fit=crop'
+
+     0K .......... .......... .......                         100%  341M=0s
+
+2026-07-11 13:58:38 (341 MB/s) - 'mirror/images.unsplash.com/photo-1497633762265-9d179a990aa6?w=400&h=560&fit=crop' saved [27680/27680]
+
+--2026-07-11 13:58:38--  https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=300&h=420&fit=crop
+Reusing existing connection to images.unsplash.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 31406 (31K) [image/jpeg]
+Saving to: 'mirror/images.unsplash.com/photo-1544947950-fa07a98d237f?w=300&h=420&fit=crop'
+
+     0K .......... .......... ..........                      100%  125M=0s
+
+2026-07-11 13:58:38 (125 MB/s) - 'mirror/images.unsplash.com/photo-1544947950-fa07a98d237f?w=300&h=420&fit=crop' saved [31406/31406]
+
+--2026-07-11 13:58:38--  https://images.unsplash.com/photo-1512820790803-83ca734da794?w=300&h=420&fit=crop
+Reusing existing connection to images.unsplash.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 38147 (37K) [image/jpeg]
+Saving to: 'mirror/images.unsplash.com/photo-1512820790803-83ca734da794?w=300&h=420&fit=crop'
+
+     0K .......... .......... .......... .......              100%  258M=0s
+
+2026-07-11 13:58:38 (258 MB/s) - 'mirror/images.unsplash.com/photo-1512820790803-83ca734da794?w=300&h=420&fit=crop' saved [38147/38147]
+
+--2026-07-11 13:58:38--  https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=300&h=420&fit=crop
+Reusing existing connection to images.unsplash.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 30925 (30K) [image/jpeg]
+Saving to: 'mirror/images.unsplash.com/photo-1481627834876-b7833e8f5570?w=300&h=420&fit=crop'
+
+     0K .......... .......... ..........                      100%  427M=0s
+
+2026-07-11 13:58:38 (427 MB/s) - 'mirror/images.unsplash.com/photo-1481627834876-b7833e8f5570?w=300&h=420&fit=crop' saved [30925/30925]
+
+--2026-07-11 13:58:38--  https://lawsbook.lovable.app/assets/library-Dyw7zbzl.js
+Connecting to lawsbook.lovable.app (lawsbook.lovable.app)|185.41.148.2|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 21063 (21K) [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/library-Dyw7zbzl.js'
+
+     0K .......... ..........                                 100% 27.0M=0.001s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:38 (27.0 MB/s) - 'mirror/lawsbook.lovable.app/assets/library-Dyw7zbzl.js' saved [21063/21063]
+
+--2026-07-11 13:58:38--  https://lawsbook.lovable.app/assets/download-DMPi3u3u.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 239 [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/download-DMPi3u3u.js'
+
+     0K                                                       100% 3.67M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:38 (3.67 MB/s) - 'mirror/lawsbook.lovable.app/assets/download-DMPi3u3u.js' saved [239/239]
+
+--2026-07-11 13:58:38--  https://lawsbook.lovable.app/create?type=book
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'mirror/lawsbook.lovable.app/create?type=book.html'
+
+     0K .......... .......... .......                          46.1M=0.001s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:38 (46.1 MB/s) - 'mirror/lawsbook.lovable.app/create?type=book.html' saved [28557]
+
+--2026-07-11 13:58:38--  https://lawsbook.lovable.app/read/d1
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'mirror/lawsbook.lovable.app/read/d1.html'
+
+     0K .......... .......... ....                             56.0M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:38 (56.0 MB/s) - 'mirror/lawsbook.lovable.app/read/d1.html' saved [24933]
+
+--2026-07-11 13:58:38--  https://lawsbook.lovable.app/read/d2
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'mirror/lawsbook.lovable.app/read/d2.html'
+
+     0K .......... .......... ....                             71.7M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:38 (71.7 MB/s) - 'mirror/lawsbook.lovable.app/read/d2.html' saved [24841]
+
+--2026-07-11 13:58:38--  https://lawsbook.lovable.app/read/d3
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'mirror/lawsbook.lovable.app/read/d3.html'
+
+     0K .......... .......... ....                              187M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:39 (187 MB/s) - 'mirror/lawsbook.lovable.app/read/d3.html' saved [24979]
+
+--2026-07-11 13:58:39--  https://lawsbook.lovable.app/read/d4
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'mirror/lawsbook.lovable.app/read/d4.html'
+
+     0K .......... .......... ....                              155M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:39 (155 MB/s) - 'mirror/lawsbook.lovable.app/read/d4.html' saved [24978]
+
+--2026-07-11 13:58:39--  https://lawsbook.lovable.app/read/d5
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'mirror/lawsbook.lovable.app/read/d5.html'
+
+     0K .......... .......... ....                             58.4M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:39 (58.4 MB/s) - 'mirror/lawsbook.lovable.app/read/d5.html' saved [24842]
+
+--2026-07-11 13:58:39--  https://lawsbook.lovable.app/read/d6
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'mirror/lawsbook.lovable.app/read/d6.html'
+
+     0K .......... .......... ....                              222M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:39 (222 MB/s) - 'mirror/lawsbook.lovable.app/read/d6.html' saved [24810]
+
+--2026-07-11 13:58:39--  https://lawsbook.lovable.app/read/d7
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'mirror/lawsbook.lovable.app/read/d7.html'
+
+     0K .......... .......... ....                             64.3M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:39 (64.3 MB/s) - 'mirror/lawsbook.lovable.app/read/d7.html' saved [24837]
+
+--2026-07-11 13:58:39--  https://lawsbook.lovable.app/read/d8
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'mirror/lawsbook.lovable.app/read/d8.html'
+
+     0K .......... .......... ....                             68.6M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:39 (68.6 MB/s) - 'mirror/lawsbook.lovable.app/read/d8.html' saved [24787]
+
+--2026-07-11 13:58:39--  https://lawsbook.lovable.app/assets/profile-CW-YBPp4.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 95 [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/profile-CW-YBPp4.js'
+
+     0K                                                       100% 1.98M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:39 (1.98 MB/s) - 'mirror/lawsbook.lovable.app/assets/profile-CW-YBPp4.js' saved [95/95]
+
+--2026-07-11 13:58:39--  https://lawsbook.lovable.app/assets/profile.index-DYlWcfe2.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 16722 (16K) [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/profile.index-DYlWcfe2.js'
+
+     0K .......... ......                                     100% 65.9M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:39 (65.9 MB/s) - 'mirror/lawsbook.lovable.app/assets/profile.index-DYlWcfe2.js' saved [16722/16722]
+
+--2026-07-11 13:58:39--  https://lawsbook.lovable.app/assets/twitter-CzJmSLra.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1554 (1.5K) [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/twitter-CzJmSLra.js'
+
+     0K .                                                     100%  166M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:39 (166 MB/s) - 'mirror/lawsbook.lovable.app/assets/twitter-CzJmSLra.js' saved [1554/1554]
+
+--2026-07-11 13:58:39--  https://lawsbook.lovable.app/assets/chevron-left-DUOhYnq9.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 137 [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/chevron-left-DUOhYnq9.js'
+
+     0K                                                       100% 18.3M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:39 (18.3 MB/s) - 'mirror/lawsbook.lovable.app/assets/chevron-left-DUOhYnq9.js' saved [137/137]
+
+--2026-07-11 13:58:39--  https://lawsbook.lovable.app/profile/edit
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'mirror/lawsbook.lovable.app/profile/edit.html'
+
+     0K .......... .......... .......... ....                  63.3M=0.001s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:39 (63.3 MB/s) - 'mirror/lawsbook.lovable.app/profile/edit.html' saved [34864]
+
+--2026-07-11 13:58:39--  https://lawsbook.lovable.app/settings
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'mirror/lawsbook.lovable.app/settings.html'
+
+     0K .......... .......... .........                        80.3M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:39 (80.3 MB/s) - 'mirror/lawsbook.lovable.app/settings.html' saved [30484]
+
+--2026-07-11 13:58:39--  https://lawsbook.lovable.app/assets/post._postId-MVMpAWNv.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2192 (2.1K) [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/post._postId-MVMpAWNv.js'
+
+     0K ..                                                    100%  194M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:39 (194 MB/s) - 'mirror/lawsbook.lovable.app/assets/post._postId-MVMpAWNv.js' saved [2192/2192]
+
+--2026-07-11 13:58:39--  https://lawsbook.lovable.app/u/khaled_h
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'mirror/lawsbook.lovable.app/u/khaled_h.html'
+
+     0K .......... .......... .......                           101M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:40 (101 MB/s) - 'mirror/lawsbook.lovable.app/u/khaled_h.html' saved [28401]
+
+--2026-07-11 13:58:40--  https://lawsbook.lovable.app/assets/read._docId-BuhJoumD.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 6695 (6.5K) [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/read._docId-BuhJoumD.js'
+
+     0K ......                                                100% 6.72M=0.001s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:40 (6.72 MB/s) - 'mirror/lawsbook.lovable.app/assets/read._docId-BuhJoumD.js' saved [6695/6695]
+
+--2026-07-11 13:58:40--  https://lawsbook.lovable.app/assets/profile.edit-CKZqzO1l.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 12358 (12K) [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/profile.edit-CKZqzO1l.js'
+
+     0K .......... ..                                         100%  200M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:40 (200 MB/s) - 'mirror/lawsbook.lovable.app/assets/profile.edit-CKZqzO1l.js' saved [12358/12358]
+
+--2026-07-11 13:58:40--  https://lawsbook.lovable.app/assets/triangle-alert-Cin7vx4P.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 272 [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/triangle-alert-Cin7vx4P.js'
+
+     0K                                                       100% 5.69M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:40 (5.69 MB/s) - 'mirror/lawsbook.lovable.app/assets/triangle-alert-Cin7vx4P.js' saved [272/272]
+
+--2026-07-11 13:58:40--  https://lawsbook.lovable.app/assets/settings-CHCwu65u.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8927 (8.7K) [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/settings-CHCwu65u.js'
+
+     0K ........                                              100%  138M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:40 (138 MB/s) - 'mirror/lawsbook.lovable.app/assets/settings-CHCwu65u.js' saved [8927/8927]
+
+--2026-07-11 13:58:40--  https://lawsbook.lovable.app/assets/shield-check-CBIGHBz0.js
+Reusing existing connection to lawsbook.lovable.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 322 [text/javascript]
+Saving to: 'mirror/lawsbook.lovable.app/assets/shield-check-CBIGHBz0.js'
+
+     0K                                                       100% 6.01M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-11 13:58:40 (6.01 MB/s) - 'mirror/lawsbook.lovable.app/assets/shield-check-CBIGHBz0.js' saved [322/322]
+
+FINISHED --2026-07-11 13:58:40--
+Total wall clock time: 19s
+Downloaded: 163 files, 5.1M in 0.2s (28.5 MB/s)
+Converting links in mirror/lawsbook.lovable.app/u/sara_law.html... 48.
+48-0
+Converting links in mirror/lawsbook.lovable.app/settings.html... 21.
+21-0
+Converting links in mirror/lawsbook.lovable.app/u/ayman_judge.html... 46.
+46-0
+Converting links in mirror/lawsbook.lovable.app/u/khaled_h.html... 43.
+43-0
+Converting links in mirror/lawsbook.lovable.app/u/ahmed_m.html... 43.
+43-0
+Converting links in mirror/lawsbook.lovable.app/u/abdulmalik_hameed.html... 54.
+54-0
+Converting links in mirror/lawsbook.lovable.app/u/jana_copyright.html... 43.
+43-0
+Converting links in mirror/lawsbook.lovable.app/u/fares_policy.html... 43.
+43-0
+Converting links in mirror/lawsbook.lovable.app/read/d5.html... 24.
+24-0
+Converting links in mirror/lawsbook.lovable.app/u/hind_privacy.html... 46.
+46-0
+Converting links in mirror/lawsbook.lovable.app/u/layla_docs.html... 46.
+46-0
+Converting links in mirror/lawsbook.lovable.app/messages.html... 33.
+33-0
+Converting links in mirror/lawsbook.lovable.app/post/p9?c=c11.html... 40.
+40-0
+Converting links in mirror/lawsbook.lovable.app/read/d4.html... 26.
+26-0
+Converting links in mirror/lawsbook.lovable.app/reels.html... 55.
+55-0
+Converting links in mirror/lawsbook.lovable.app/index.html... 118.
+118-0
+Converting links in mirror/lawsbook.lovable.app/read/d3.html... 26.
+26-0
+Converting links in mirror/lawsbook.lovable.app/u/yousef_case.html... 43.
+43-0
+Converting links in mirror/lawsbook.lovable.app/notifications.html... 104.
+84-20
+Converting links in mirror/lawsbook.lovable.app/profile/edit.html... 28.
+28-0
+Converting links in mirror/lawsbook.lovable.app/read/d2.html... 26.
+26-0
+Converting links in mirror/lawsbook.lovable.app/u/nour_ai.html... 46.
+46-0
+Converting links in mirror/lawsbook.lovable.app/read/d8.html... 26.
+26-0
+Converting links in mirror/lawsbook.lovable.app/post/p2?c=c4.html... 44.
+44-0
+Converting links in mirror/lawsbook.lovable.app/library.html... 89.
+89-0
+Converting links in mirror/lawsbook.lovable.app/profile.html... 65.
+65-0
+Converting links in mirror/lawsbook.lovable.app/read/d1.html... 26.
+26-0
+Converting links in mirror/lawsbook.lovable.app/u/basem_contracts.html... 46.
+46-0
+Converting links in mirror/lawsbook.lovable.app/u/salman_lib.html... 46.
+46-0
+Converting links in mirror/lawsbook.lovable.app/post/p2?c=c3.html... 44.
+44-0
+Converting links in mirror/lawsbook.lovable.app/read/d7.html... 26.
+26-0
+Converting links in mirror/lawsbook.lovable.app/post/p5?c=c7.html... 42.
+42-0
+Converting links in mirror/lawsbook.lovable.app/u/shahd_media.html... 48.
+48-0
+Converting links in mirror/lawsbook.lovable.app/u/reem_books.html... 48.
+48-0
+Converting links in mirror/lawsbook.lovable.app/create.html... 36.
+36-0
+Converting links in mirror/lawsbook.lovable.app/explore.html... 64.
+64-0
+Converting links in mirror/lawsbook.lovable.app/create?type=book.html... 36.
+36-0
+Converting links in mirror/lawsbook.lovable.app/read/d6.html... 26.
+26-0
+Converting links in mirror/lawsbook.lovable.app/assets/styles-C_lcJl9F.css... nothing to do.
+Converting links in mirror/fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700;800;900&family=Amiri:wght@400;700&display=swap.css... 7.
+7-0
+Converted links in 40 files in 0.02 seconds.
