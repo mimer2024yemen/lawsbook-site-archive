@@ -1,2 +1,2 @@
-Static archive repaired for GitHub Pages project deployment under /lawsbook-site-archive/.
+Static archive repaired for GitHub Pages project deployment under /.
 Remaining limitations are documented by the assistant after verification.
